@@ -1,0 +1,16 @@
+2020-06-25 17:36:05 [restartedMain] INFO  c.f.s.SpringLoggingSl4jApplication -
+				Starting SpringLoggingSl4jApplication on f4hrul-PC with PID 12104 (D:\JAVA\SL4J SPRING\spring-logging-sl4j\target\classes started by f4hrul in D:\JAVA\SL4J SPRING\spring-logging-sl4j)
+2020-06-25 17:36:05 [restartedMain] DEBUG c.f.s.SpringLoggingSl4jApplication -
+				Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-25 17:36:05 [restartedMain] INFO  c.f.s.SpringLoggingSl4jApplication -
+				No active profile set, falling back to default profiles: default
+2020-06-25 17:36:08 [restartedMain] INFO  c.f.s.SpringLoggingSl4jApplication -
+				Started SpringLoggingSl4jApplication in 3.869 seconds (JVM running for 4.83)
+2020-06-25 17:36:11 [http-nio-8080-exec-5] DEBUG c.f.s.SpringLoggingSl4jApplication -
+				Request mama
+2020-06-25 17:36:11 [http-nio-8080-exec-5] DEBUG c.f.s.SpringLoggingSl4jApplication -
+				Respone Hi mama Welcome to Istimiwir
+2020-06-25 17:36:12 [http-nio-8080-exec-9] DEBUG c.f.s.SpringLoggingSl4jApplication -
+				Request mama
+2020-06-25 17:36:12 [http-nio-8080-exec-9] DEBUG c.f.s.SpringLoggingSl4jApplication -
+				Respone Hi mama Welcome to Istimiwir
